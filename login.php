@@ -63,8 +63,7 @@ if(isset($_POST['submit']))
  }
  else
  {
-  echo 'moback';
-  echo'Ilayaraja';
+    echo 'Please enter username and password';
  }
 }
 ?>
