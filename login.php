@@ -63,7 +63,7 @@ if(isset($_POST['submit']))
  }
  else
  {
-  echo 'Username and password is required!!';
+  echo 'moback';
  }
 }
 ?>
