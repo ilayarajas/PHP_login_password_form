@@ -34,6 +34,7 @@ span{
 if(isset($_COOKIE['name']) && isset($_COOKIE['pwd']))
 {
     header('location:welcome.php');
+    exit;
 }
 // login validation in php
 if(isset($_POST['submit']))
