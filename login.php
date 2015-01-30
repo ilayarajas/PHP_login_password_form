@@ -64,7 +64,7 @@ if(isset($_POST['submit']))
  }
  else
  {
-    echo 'Please enter username and password';
+    echo 'Please enter username and password......';
  }
 }
 ?>
