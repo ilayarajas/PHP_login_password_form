@@ -63,7 +63,7 @@ if(isset($_POST['submit']))
  }
  else
  {
-  echo'Enter both username and password';
+  echo'Enter oth Username and Password!!';
  }
 }
 ?>
