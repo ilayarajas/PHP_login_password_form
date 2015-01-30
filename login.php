@@ -65,6 +65,7 @@ if(isset($_POST['submit']))
  else
  {
     echo 'Please enter username and password......';
+    exit;
  }
 }
 ?>
